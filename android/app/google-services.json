@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "416407185900",
+    "firebase_url": "https://panchang-31517.firebaseio.com",
+    "project_id": "panchang-31517",
+    "storage_bucket": "panchang-31517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416407185900:android:b57c845bf23ec0c1b678c9",
+        "android_client_info": {
+          "package_name": "com.shivshaktiprakashan.panchang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416407185900-d2i8ihbis1k3jr95ituh1ia3epiec1na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxNVzNz9YsjbsBu7js_LxieqfV6m6BuZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416407185900-d2i8ihbis1k3jr95ituh1ia3epiec1na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5970570142821257~2598511510"
+    }
+  ],
+  "configuration_version": "1"
+}
